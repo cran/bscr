@@ -71,7 +71,7 @@ Bayesian Semi-parametric Analysis of Semi-competing Risks Data:
 Estimating Readmission Rates among Pancreatic Cancer Patients, available from the authors upon request.
 }
 \author{
-Kyu Ha Lee, Sebastein Haneuse, Deborah Schrag, and Francesca Dominici \cr
+Kyu Ha Lee, Sebastien Haneuse, Deborah Schrag, and Francesca Dominici \cr
 }
 \note{
 If the prespecified value of \code{save} is less than that of \code{num.reps}, the results are saved

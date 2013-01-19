@@ -1,4 +1,4 @@
-53750e9fd81401c07cfc7b3fcb2f18b1 *DESCRIPTION
+59d23da3b592ea2ef5179dc021730eb6 *DESCRIPTION
 d896d91f94995c4a44ef54e68a3fa2fc *NAMESPACE
 3199e53da4429f4b2a2fedd81d243f8d *R/BpeScr.R
 5af8e48cb6b9d7286392435251a0361d *R/BpeScr.intFunc.R
@@ -14,12 +14,12 @@ df1ba6e665ae5ea550f237ac76800c6e *R/EhrBpe.R
 97714c09478ef2b822dcc9a1336cc5bc *R/EhrBweib.R
 0941e416153fa588b9182c06aba800de *R/SimScr.R
 387336d849533ba25ddcac2d32e3de2d *R/SimSurv.R
-757606dd30bddf14c2c9f183ab69fa97 *man/BpeScr.Rd
-bb57512fb2c4d0ad4f808a7c8e77381d *man/BpeSurv.Rd
-ec95f1105f2f9c3dabd45e554a8e5bb7 *man/BweibScr.Rd
-707e9ef8fea7f6a29cf2a13748c0f6c4 *man/BweibSurv.Rd
-5c484292b776343cadb521a565ffae96 *man/EhrBpe.Rd
-3a33aad9ea37b8f7e05fc007ad7bf072 *man/EhrBweib.Rd
-0d2921bc70044be6bdfc499ee4cdb2c3 *man/SimScr.Rd
-0745d806f8b73265488cafb623ebc277 *man/SimSurv.Rd
-cd3366344718a62093a2f45845e8b357 *man/bscr.Rd
+7ccf8f27df09f5d7f68f09cd2998865f *man/BpeScr.Rd
+194d053dddfbd148e535c2b574714e76 *man/BpeSurv.Rd
+7026604302794cbf6a65504b71da27b6 *man/BweibScr.Rd
+be427396aec232f8cd80ce6e992ca26e *man/BweibSurv.Rd
+b2dc19193ba7ce449119718f52d15c09 *man/EhrBpe.Rd
+5729a92aac82a83249e35b8ab27ffa1e *man/EhrBweib.Rd
+65bbd7303273ca847e6b69a92bc11ad2 *man/SimScr.Rd
+739d6c70ff87545063c776b10f952eec *man/SimSurv.Rd
+ff24ef806b76d812fab3a9d4334ff068 *man/bscr.Rd

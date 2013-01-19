@@ -30,14 +30,14 @@ The package includes following functions:
 \tabular{ll}{
 Package: \tab bscr\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2013-01-02\cr
+Version: \tab 1.1\cr
+Date: \tab 2013-01-19\cr
 License: \tab GPL (>= 2)\cr
 LazyLoad: \tab yes\cr
 }
 }
 \author{
-Kyu Ha Lee, Sebastein Haneuse, Deborah Schrag, and Francesca Dominici \cr
+Kyu Ha Lee, Sebastien Haneuse, Deborah Schrag, and Francesca Dominici \cr
 Maintainer: Kyu Ha Lee <klee@hsph.harvard.edu>
 }
 \references{
